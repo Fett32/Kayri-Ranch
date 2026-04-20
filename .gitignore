@@ -1,0 +1,50 @@
+# Personal save data
+minecraft/saves/
+minecraft/Distant_Horizons_server_data/
+minecraft/moddata/
+minecraft/replay_recordings/
+minecraft/cobblenav/
+minecraft/chesttracker/
+minecraft/legendary-monuments-data/
+
+# Regenerated caches
+minecraft/dynamic-data-pack-cache/
+minecraft/dynamic-resource-pack-cache/
+minecraft/patchouli_books/
+minecraft/patchouli_data.json
+minecraft/.cache/
+minecraft/.fabric/
+minecraft/.mixin.out/
+
+# Logs, crash reports
+minecraft/logs/
+minecraft/crash-reports/
+hs_err_pid*.log
+*.log
+*.log.gz
+
+# Downloads, libraries (regenerated)
+minecraft/downloads/
+minecraft/libraries/
+libraries/
+patches/
+
+# Mod JARs — tracked via mods-list.txt manifest instead
+minecraft/mods/*.jar
+minecraft/mods/*.jar.disabled*
+
+# Per-user runtime
+minecraft/command_history.txt
+minecraft/emi.json
+minecraft/usercache.json
+minecraft/usernamecache.json
+minecraft/realms_persistence.json
+
+# Shader/tmp cache dirs
+minecraft/config/spark/tmp-*/
+
+# Sensitive configs
+minecraft/config/resourceful-config-web.json
+
+# Core dumps
+core.*

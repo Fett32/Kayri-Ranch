@@ -1,0 +1,13 @@
+{
+  "balm:wthit": true,
+  "chesttracker:wthit": true,
+  "cobblemonraiddens:raid_crystal": true,
+  "polymer:core": true,
+  "waystones:plugin": true,
+  "waila:core": true,
+  "waila:vanilla": true,
+  "waila:harvest": true,
+  "waila:extra": true,
+  "waila:fabric": true,
+  "waystones:wthit": true
+}
