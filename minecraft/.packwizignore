@@ -14,6 +14,10 @@ data/
 *.log
 *.log.gz
 
+# Not-for-shipping configs
+config/resourceful-config-web.json
+config/spark/tmp-*/
+
 # Prism-specific
 ../instance.cfg
 ../mmc-pack.json

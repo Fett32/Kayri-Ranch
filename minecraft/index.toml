@@ -1181,22 +1181,6 @@ file = "config/releaserewards.json"
 hash = "cb978f89bd44e1aaad1cdb52754fcc7c7ef8926961f9422bab9feedc2574b757"
 
 [[files]]
-file = "config/replaymod-rendersettings.json"
-hash = "19d7c83a1a5c510499245908d4252627f10e95f82e85f0dce9b1eba7e058e27f"
-
-[[files]]
-file = "config/replaymod-screenshotsettings.json"
-hash = "69f4c72d6c0bdc2c246bb0b587cf8c1e255716ca37cffb39de2a5994411035a3"
-
-[[files]]
-file = "config/replaymod.json"
-hash = "01a5f6979e260b3d3e71aedbe1d09a4a837fee8440cab7e81365378f22433f57"
-
-[[files]]
-file = "config/resourceful-config-web.json"
-hash = "8641c12f33e16c5a320d920c36bba82fb4a35ccce48fff998e82450fc9cecded"
-
-[[files]]
 file = "config/rgs/structure_placement_config.json5"
 hash = "53e361c7e6f3534013b3f6e521ec698547a3bab12c1688c22ffeb53a77c3735b"
 
@@ -1399,10 +1383,6 @@ hash = "32f274ae29674f92f869b2bdfe8f9b7ea222e346b32284fffe23e5156b17c1a0"
 [[files]]
 file = "config/spark/config.json"
 hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
-
-[[files]]
-file = "config/spark/tmp-client/about.txt"
-hash = "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0"
 
 [[files]]
 file = "config/spark/tmp/about.txt"
@@ -3126,10 +3106,6 @@ hash = "636945a93f673014109dc9d3768b4b06e8c7506d067be68602478a7244ff98f9"
 metafile = true
 
 [[files]]
-file = "mods/desert-mansion-2.4.jar"
-hash = "1e5bd005694355612fb9123f7931761431409e250d31595c9ee3b93cc718b69a"
-
-[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "61ce79aeecd3101399a33bbea16444736f2988b363a63c9f3b6a2c4fb0b3828a"
 metafile = true
@@ -3263,10 +3239,6 @@ metafile = true
 file = "mods/hopo-better-underwater-ruins.pw.toml"
 hash = "be75fa97845b24c102d33441e3f1e9a24d0ab622d57b031c0d0f6888ce5927a5"
 metafile = true
-
-[[files]]
-file = "mods/ice_pillager_castle-3.4.jar"
-hash = "e911176ef37be77fb3a3663e15a42a4a73741994b13146a634ba5f762078aa21"
 
 [[files]]
 file = "mods/iceberg.pw.toml"
@@ -3796,11 +3768,6 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "7d47e3d8bee4711ab37491e5e91bad186b6606ba560ab8a1dec753c157cf1151"
-metafile = true
-
-[[files]]
-file = "mods/unnamed-desert.pw.toml"
-hash = "0d7a14e34f762ffe05a6810beab1b3a38a9e921e1c593b56844eb4b4c3797cc8"
 metafile = true
 
 [[files]]
