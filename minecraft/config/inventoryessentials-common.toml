@@ -18,7 +18,7 @@ enableBulkTransferAll = true
 enableBulkTransferSingle = true
 
 # Should middle-clicking a slot sort the inventory?
-enableMiddleClickSort = false
+enableMiddleClickSort = true
 
 # Should holding shift and moving your mouse over items quick-transfer them without requiring each to be clicked?
 enableShiftDrag = true

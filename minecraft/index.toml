@@ -742,7 +742,7 @@ hash = "029b69d096c5db4ff427449151d3e39ad451feaf4e29bd5d030b1f550172198a"
 
 [[files]]
 file = "config/inventoryessentials-common.toml"
-hash = "5b0d61db1e20e56bef59ce3378f5c6e68fa201f2f01bb86abde6f64aa9c8cab3"
+hash = "6f00eda1d5e852de126b34d4a4c843457ebc4b1c868c54fd0b6153ce8dae4b39"
 
 [[files]]
 file = "config/inventoryessentials-common.toml.bak1"
@@ -866,7 +866,7 @@ hash = "ff49be40555a0fdb1d2dc0d27fbd3cf3701171f9a0074313619b681b37866783"
 
 [[files]]
 file = "config/litematica.json"
-hash = "9772735478a2c2aa54c682b06b3b5ebd4157e266061c6835f13e45b059b70b53"
+hash = "7e5009f185eaffae9ef950b247b8924fd8a846b0bd6a090c8093a66bd97cb69c"
 
 [[files]]
 file = "config/litematica/litematica_localhost_25566.json"

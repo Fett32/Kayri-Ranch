@@ -64,7 +64,7 @@
     "pasteUsingServux": true,
     "pickBlockAvoidDamageable": true,
     "pickBlockAvoidTools": false,
-    "pickBlockEnabled": true,
+    "pickBlockEnabled": false,
     "pickBlockShulkers": false,
     "placementReplaceBehavior": "all",
     "placementRestriction": false,
