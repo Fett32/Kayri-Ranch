@@ -749,6 +749,10 @@ file = "config/inventoryessentials-common.toml.bak1"
 hash = "f32c3a85388aaf4214d01285a2167d8ecaf38f0288085ca66a038be15957f6e1"
 
 [[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "75094d21d1191a2ba550ab1a966e79968681c0ebd92014e375209c17ecbf0b07"
+
+[[files]]
 file = "config/invmove.json"
 hash = "f07273670fb6fbd2012d7a63e2453826f00e42dd82efb3ea82a4d81894f3b410"
 
@@ -3907,4 +3911,8 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "377febe57433de7e38b0044cd80f2a5b3558d98aa38d74e7a0cdd5461645cf2b"
+hash = "9ff82b7ec2374f494a760ec6541e6af1b83d096b62f3cf6f13b02337ba9d37b4"
+
+[[files]]
+file = "resourcepacks/ATM x MSD [v3.5.0].zip"
+hash = "10e6f9c6bc0048e9504cec8b436b09d5ad4afd923a08e834b8deb6004caaa474"

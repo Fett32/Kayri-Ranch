@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["fabric","knowlogy:1.0.0_minecraft","cobblemon:gyaradosjump","knowlogy:1.21.0_tricky_trials","cobblemon:regionbiasforms","cobbreeding:pasturefix"]
+resourcePacks:["fabric","knowlogy:1.0.0_minecraft","cobblemon:gyaradosjump","knowlogy:1.21.0_tricky_trials","cobblemon:regionbiasforms","cobbreeding:pasturefix","file/ATM x MSD [v3.5.0].zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
