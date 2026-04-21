@@ -151,7 +151,7 @@ key_key.fightorflight.cmdmode.attack_position:key.keyboard.unknown
 key_key.fightorflight.cmdmode.nocmd:key.keyboard.unknown
 key_key.fightorflight.cmdmode.clear:key.keyboard.unknown
 key_key.fullbright.toggle:key.keyboard.b
-key_key.inventoryessentials.sort_inventory:key.mouse.middle
+key_key.inventoryessentials.sort_inventory:key.keyboard.unknown
 key_key.jade.config:key.keyboard.keypad.0
 key_key.jade.show_overlay:key.keyboard.keypad.1
 key_key.jade.toggle_liquid:key.keyboard.keypad.2
