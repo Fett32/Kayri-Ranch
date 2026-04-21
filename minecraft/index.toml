@@ -3095,6 +3095,11 @@ hash = "55176d940577a671525a837cb9db04380a0d3339f2b93314d5df9001653347f9"
 metafile = true
 
 [[files]]
+file = "mods/complete-cobblemon-collection-myths-and-legends-compat.pw.toml"
+hash = "7dc62e3d29ad286794fd0127e6aee4ca83aa3d005a48e4f617f580734c770e88"
+metafile = true
+
+[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "0381a70aa3e0234278892a6c19948d40c2345b58407bd757f19768ac07488f2a"
 metafile = true
