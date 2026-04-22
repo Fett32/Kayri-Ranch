@@ -3,6 +3,6 @@ filename = "mandawaystones-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/Fett32/Cobblemon-Dist/main/minecraft/mods/mandawaystones-1.0.1.jar"
+url = "https://raw.githubusercontent.com/Fett32/Kayri-Ranch/main/minecraft/mods/mandawaystones-1.0.1.jar"
 hash-format = "sha256"
 hash = "6a4a951ff5848b06ef45e3775e7e76e454eb9cc3ec585b153aea9fd9ce368039"
