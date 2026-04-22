@@ -45,6 +45,7 @@ minecraft/mods/*.jar.disabled*
 !minecraft/mods/desert-mansion-2.4.jar
 !minecraft/mods/ice_pillager_castle-3.4.jar
 !minecraft/mods/mandawaystones-*.jar
+!minecraft/mods/mandawander-*.jar
 
 # Per-user runtime
 minecraft/command_history.txt
